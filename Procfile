@@ -1,1 +1,1 @@
-web: gunicorn firstdjangoproject:app
+web: gunicorn codestar:app
