@@ -1,1 +1,1 @@
-web: gunicorn codestar:app
+web: gunicorn django-blog:app
